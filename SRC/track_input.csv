@@ -1,0 +1,2 @@
+Index,File_prefix,Hole_accuracy_in_meters,Holes_threshold,Epsilon,One_phone
+19,SelfTest_newdata,10,2.9,0.2,0

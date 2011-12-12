@@ -1,0 +1,53 @@
+Maximum time step :  1638824701
+Minimum time step :  1
+Average time step :  211704
+No. of time step > 5000 : 880
+The data is sorted.
+A new file based on the sorted data has been created: sorted_SelfTest.csv
+The input file is  sorted_SelfTest.csv
+Phone  0
+Gravity Vector : [-0.06597911  4.43508008  7.96061717]
+Rput Matrix:
+[[ 0.99982501 -0.01154571  0.01471917]
+ [ 0.01724928  0.87350442 -0.48651052]
+ [-0.00724015  0.48667928  0.87355072]]
+Phone Orientation in car:  [ -0.75727366 -29.12255274   0.47486747]
+No. of pot holes: 11
+minimum and maximium time step of holes:  0.155 0.296
+Number of Type 0 pot holes: 3
+Number of Type 1 pot holes: 8
+Phone  1
+Gravity Vector : [ 0.5889474  -4.8744342   7.39763357]
+Rput Matrix:
+[[ 0.9881804  -0.07951084 -0.13106308]
+ [ 0.13820103  0.83203126  0.53723781]
+ [ 0.06633235 -0.54900093  0.83318546]]
+Phone Orientation in car:  [ -5.45874144  33.29849928  -4.55188504]
+No. of pot holes: 19
+minimum and maximium time step of holes:  0.108 0.497
+Number of Type 0 pot holes: 4
+Number of Type 1 pot holes: 15
+Phone  2
+Gravity Vector : [-1.32541631  4.34392625  7.8662207 ]
+Rput Matrix:
+[[-0.98902466 -0.09103589 -0.11637307]
+ [ 0.02318492 -0.87349846  0.4862745 ]
+ [-0.14592013  0.47823938  0.86602218]]
+Phone Orientation in car:  [ 185.94987814  -28.57047589    9.56419837]
+No. of pot holes: 2
+minimum and maximium time step of holes:  0.211 0.327
+Number of Type 0 pot holes: 1
+Number of Type 1 pot holes: 1
+Phone  3
+Gravity Vector : [-0.65202944 -4.48706082  7.37933113]
+Rput Matrix:
+[[-0.24260797  0.83828201  0.48828746]
+ [-0.96719896 -0.16994599 -0.18879762]
+ [-0.07528316 -0.51807493  0.85201574]]
+Phone Orientation in car:  [ 101.46032522   31.20320973    5.04947725]
+No. of pot holes: 1
+minimum and maximium time step of holes:  0.157 0.217
+Number of Type 0 pot holes: 0
+Number of Type 1 pot holes: 1
+Total number of pot holes : 33
+The output file is  Solution_SelfTest.csv

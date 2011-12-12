@@ -1,0 +1,32 @@
+More than one data set for same time stamp 434 435
+Maximum time step :  90920
+Minimum time step :  764
+Average time step :  3351
+No. of time step > 5000 : 12
+The data is sorted.
+A new file based on the sorted data has been created: sorted_SelfTest_newdata.csv
+The input file is  sorted_SelfTest_newdata.csv
+Phone  0
+Gravity Vector : [-0.49331224  0.23059612  9.70038682]
+Rput Matrix:
+[[ 0.99458619  0.09195855  0.04839356]
+ [-0.0906654   0.99547993 -0.02827518]
+ [-0.05077496  0.02373448  0.99842805]]
+Phone Orientation in car:  [ 5.27778222 -1.36001323  2.91126337]
+No. of pot holes: 3
+minimum and maximium time step of holes:  2.107 2.107
+Number of Type 0 pot holes: 0
+Number of Type 1 pot holes: 3
+Phone  1
+Gravity Vector : [-0.33833998  0.02361498  9.45607293]
+Rput Matrix:
+[[-0.98875761  0.14519296 -0.03574052]
+ [-0.14518886 -0.98940021 -0.00272402]
+ [-0.03575719  0.00249573  0.99935739]]
+Phone Orientation in car:  [  1.71651520e+02  -1.42994935e-01   2.04917904e+00]
+No. of pot holes: 2
+minimum and maximium time step of holes:  1.269 4.219
+Number of Type 0 pot holes: 0
+Number of Type 1 pot holes: 2
+Total number of pot holes : 5
+The output file is  Solution_SelfTest_newdata.csv
