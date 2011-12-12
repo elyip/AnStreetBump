@@ -1,0 +1,43 @@
+LGPL License Files
+COPYING
+COPYING.LESSER
+
+Documentations:
+README (this file)
+AnStreetBump_Algorithm.pdf  (usage and theory)
+
+
+Description of Contents of the SRC directory :
+
+Street Bump data sets:
+SelfTest.csv
+SelfTest_newdata.csv
+
+Sorted Street Bump data sets:
+sorted_SelfTest.csv
+sorted_SelfTest_newdata.csv
+
+Solutions:
+
+Solution_SelfTest_newdata.csv 
+Solution__SelfTest.csv
+
+Standard Ouput files from AnStreetBump
+SelfTest_newdata.out
+SelfTest.out
+
+Input files: 
+track_SelfTest_newdata_input.in
+track_SelfTest_input.in
+(need to be copied to track_input.in)
+
+Python Source code:
+AnStreetBump.py (main program)
+devices.py  
+gengcell.py  
+holes.py  
+readsb.py  
+rgeometry.py  
+sigma.py  
+util.py
+
